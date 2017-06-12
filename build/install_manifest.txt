@@ -1,0 +1,2 @@
+/home/vitor/Projeto_Final_v5.0/bin/Modbus_Fanuc
+/home/vitor/Projeto_Final_v5.0/lib/libVS_Modbus.so

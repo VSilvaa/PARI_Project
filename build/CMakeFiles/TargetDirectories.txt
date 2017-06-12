@@ -1,0 +1,10 @@
+/home/vitor/Projeto_Final_v5.0/build/CMakeFiles/install.dir
+/home/vitor/Projeto_Final_v5.0/build/CMakeFiles/list_install_components.dir
+/home/vitor/Projeto_Final_v5.0/build/CMakeFiles/rebuild_cache.dir
+/home/vitor/Projeto_Final_v5.0/build/CMakeFiles/install/local.dir
+/home/vitor/Projeto_Final_v5.0/build/CMakeFiles/install/strip.dir
+/home/vitor/Projeto_Final_v5.0/build/CMakeFiles/edit_cache.dir
+/home/vitor/Projeto_Final_v5.0/build/CMakeFiles/Modbus_Fanuc.dir
+/home/vitor/Projeto_Final_v5.0/build/CMakeFiles/cpfiles.dir
+/home/vitor/Projeto_Final_v5.0/build/CMakeFiles/VS_Modbus.dir
+/home/vitor/Projeto_Final_v5.0/build/CMakeFiles/doc.dir

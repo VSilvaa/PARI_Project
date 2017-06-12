@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -shared -Wl,-soname,libVS_Modbus.so -o libVS_Modbus.so CMakeFiles/VS_Modbus.dir/srcmyutils/myf.c.o 

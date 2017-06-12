@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/Modbus_Fanuc.dir/src/main.c.o CMakeFiles/Modbus_Fanuc.dir/src/callbacks.c.o  -o Modbus_Fanuc -rdynamic -lgtk-3 -lgdk-3 -lpangocairo-1.0 -lpango-1.0 -latk-1.0 -lcairo-gobject -lcairo -lgdk_pixbuf-2.0 -lgio-2.0 -lgobject-2.0 -lglib-2.0 libVS_Modbus.so -Wl,-rpath,/home/vitor/Projeto_Final_v5.0/build: 

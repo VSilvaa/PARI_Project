@@ -1,0 +1,22 @@
+#Some Doxygen common/useful configurations
+#Items between @ @ are configured dynamically by cmake in CMakeLists.txt
+#
+PROJECT_NAME           = "Projeto_Final__PARI_2016/2017"
+PROJECT_NUMBER         = 5.5.2
+STRIP_FROM_PATH        = "/home/vitor/Projeto_Final_v5.0" \
+                         "/home/vitor/Projeto_Final_v5.0/build"
+INPUT                  = "/home/vitor/Projeto_Final_v5.0/doc/mainpage.dox"\ 
+			 "/home/vitor/Projeto_Final_v5.0"
+EXCLUDE                = "/home/vitor/Projeto_Final_v5.0/build" 
+PROJECT_LOGO           = "/home/vitor/Projeto_Final_v5.0/doc/robot.jpg"
+FILE_PATTERNS          = *.h \
+                         *.c
+RECURSIVE              = YES
+#USE_MDFILE_AS_MAINPAGE = "/home/vitor/Projeto_Final_v5.0/doc/mainpage.dox"
+IMAGE_PATH             = "/home/vitor/Projeto_Final_v5.0/doc/"
+GENERATE_LATEX         = NO
+HAVE_DOT               = YES
+SOURCE_BROWSER         = YES
+GENERATE_TREEVIEW      = ALL
+HTML_EXTRA_STYLESHEET  = "/home/vitor/Projeto_Final_v5.0/doc/doxygen_1.css" 
+#HTML_EXTRA_STYLESHEET  = "/home/vitor/Projeto_Final_v5.0/doc/doxygen_3.css" 
